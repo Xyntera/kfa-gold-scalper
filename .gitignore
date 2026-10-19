@@ -1,0 +1,8 @@
+.env
+state.json
+paper_trades.jsonl
+.key_rotation
+signals.log
+cron.log
+__pycache__/
+*.pyc
